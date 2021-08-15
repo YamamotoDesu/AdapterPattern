@@ -1,6 +1,6 @@
 # AdapterPattern  
 
-<img src="https://github.com/YamamotoDesu/FactoryPattern/blob/main/Factory.playground/Resources/Factory_Diagram.png" width="600" height="300">  
+<img src="https://github.com/YamamotoDesu/AdapterPattern/blob/main/Adapter.playground/Resources/Adapter_Diagram.png" width="600" height="300">  
 The adapter pattern allows incompatible types to work together. It involves four components:  
 
 An object using an adapter is the object that depends on the new protocol.  
